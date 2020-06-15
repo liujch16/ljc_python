@@ -7,3 +7,4 @@ if alien_colour == 'green':
 if alien_colour == 'red':
     print('You are fired')
 ##省略else代码块
+
