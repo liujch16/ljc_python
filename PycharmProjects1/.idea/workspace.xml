@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="491fb272-e9e4-4c96-8a9d-5b4c5c1b318c" name="Default Changelist" comment="" />
+    <list default="true" id="491fb272-e9e4-4c96-8a9d-5b4c5c1b318c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/no_6/homework61_6-1~3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_6/note62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_6/note63.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_5/homework52_5-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_5/homework52_5-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_6/note61.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_6/note61.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SAVE_CHANGES_POLICY" value="STASH" />
+  </component>
   <component name="ProjectId" id="1dQVdWwBL5CqDVYmKoGPQWLRPch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,51 +37,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="homework52_5-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_5/homework52_5-10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework52_5-11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_5/homework52_5-11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.note63">
     <configuration name="homework52_5-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +53,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_5/homework52_5-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="note52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_5/note52.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="note62" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +111,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_5/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_6/note62.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="note63" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_6/note63.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.note63" />
         <item itemvalue="Python.note61" />
-        <item itemvalue="Python.homework52_5-11" />
-        <item itemvalue="Python.homework52_5-10" />
+        <item itemvalue="Python.note62" />
         <item itemvalue="Python.homework52_5-9" />
+        <item itemvalue="Python.note52" />
       </list>
     </recent_temporary>
   </component>
@@ -154,47 +168,62 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="209" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592461964039">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="209" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1237.777@43.23.1237.777" timestamp="1592461964039" />
-    <state width="1216" height="198" key="GridCell.Tab.0.bottom" timestamp="1592493069832">
+    <state x="434" y="23" key="CommitChangelistDialog2" timestamp="1592571195076">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="198" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1592493069832" />
-    <state width="1216" height="198" key="GridCell.Tab.0.center" timestamp="1592493069831">
+    <state x="434" y="23" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1592571195076" />
+    <state x="813" y="315" key="Github.ShareDialog" timestamp="1592569877104">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="198" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1592493069831" />
-    <state width="1216" height="198" key="GridCell.Tab.0.left" timestamp="1592493069831">
+    <state x="813" y="315" key="Github.ShareDialog/43.23.1237.777@43.23.1237.777" timestamp="1592569877104" />
+    <state width="598" height="198" key="GridCell.Tab.0.bottom" timestamp="1592574744885">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="198" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1592493069831" />
-    <state width="1216" height="198" key="GridCell.Tab.0.right" timestamp="1592493069832">
+    <state width="598" height="198" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1592574744885" />
+    <state width="598" height="198" key="GridCell.Tab.0.center" timestamp="1592574744884">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="198" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1592493069832" />
-    <state width="1216" height="246" key="GridCell.Tab.1.bottom" timestamp="1592493069826">
+    <state width="598" height="198" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1592574744884" />
+    <state width="598" height="198" key="GridCell.Tab.0.left" timestamp="1592574744884">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="246" key="GridCell.Tab.1.bottom/43.23.1237.777@43.23.1237.777" timestamp="1592493069826" />
-    <state width="1216" height="246" key="GridCell.Tab.1.center" timestamp="1592493069826">
+    <state width="598" height="198" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1592574744884" />
+    <state width="598" height="198" key="GridCell.Tab.0.right" timestamp="1592574744884">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="246" key="GridCell.Tab.1.center/43.23.1237.777@43.23.1237.777" timestamp="1592493069826" />
-    <state width="1216" height="246" key="GridCell.Tab.1.left" timestamp="1592493069825">
+    <state width="598" height="198" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1592574744884" />
+    <state width="598" height="246" key="GridCell.Tab.1.bottom" timestamp="1592574744877">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="246" key="GridCell.Tab.1.left/43.23.1237.777@43.23.1237.777" timestamp="1592493069825" />
-    <state width="1216" height="246" key="GridCell.Tab.1.right" timestamp="1592493069826">
+    <state width="598" height="246" key="GridCell.Tab.1.bottom/43.23.1237.777@43.23.1237.777" timestamp="1592574744877" />
+    <state width="598" height="246" key="GridCell.Tab.1.center" timestamp="1592574744877">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1216" height="246" key="GridCell.Tab.1.right/43.23.1237.777@43.23.1237.777" timestamp="1592493069826" />
-    <state x="163" y="50" key="SettingsEditor" timestamp="1592358129758">
+    <state width="598" height="246" key="GridCell.Tab.1.center/43.23.1237.777@43.23.1237.777" timestamp="1592574744877" />
+    <state width="598" height="246" key="GridCell.Tab.1.left" timestamp="1592574744877">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state x="163" y="50" key="SettingsEditor/43.23.1237.777@43.23.1237.777" timestamp="1592358129758" />
+    <state width="598" height="246" key="GridCell.Tab.1.left/43.23.1237.777@43.23.1237.777" timestamp="1592574744877" />
+    <state width="598" height="246" key="GridCell.Tab.1.right" timestamp="1592574744877">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state width="598" height="246" key="GridCell.Tab.1.right/43.23.1237.777@43.23.1237.777" timestamp="1592574744877" />
+    <state x="146" y="31" key="SettingsEditor" timestamp="1592569829974">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="146" y="31" key="SettingsEditor/43.23.1237.777@43.23.1237.777" timestamp="1592569829974" />
+    <state x="480" y="151" key="Vcs.Push.Dialog.v2" timestamp="1592570464146">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="480" y="151" key="Vcs.Push.Dialog.v2/43.23.1237.777@43.23.1237.777" timestamp="1592570464146" />
     <state x="133" y="105" width="670" height="676" key="search.everywhere.popup" timestamp="1592462380650">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
