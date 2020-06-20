@@ -13,6 +13,9 @@ user_0 = {
     'last': 'fermi'
     }
 
-for key, value in user_0.items():##编写用于遍历字典中的for循环，可声明两个变量，用于存储键值对
-    print("\nKey:" + key)
+for key, value in user_0.items():##编写用于遍历字典中的for循环，可声明两个变量，用于存储键值对.items()方法返回一个键值对列表，for循环依次将每个键值对存储到指定的两个变量中
+    print("\nKey:" + key)#将键存储到key中，将值存储到value中
     print("Value: " + value)
+#遍历字典中的所有键
+for k in user_0.keys():#key
+    print('\n' + k + '.')
