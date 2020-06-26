@@ -21,4 +21,4 @@ hobbies = {
 for hobbiy,detil in hobbies.items():
     print('\nI have such hobbies: ' + hobbiy)
     Date,Cost,Willdo = detil['date'],detil['cost'],detil['willdo']
-    print("These are my hobbie's detils "+ '\n' + Date + '\n' +Cost + '\n' +Willdo)
+    print("These are my hobbie's detils "+ '\n' + Date + '\n' + Cost + '\n' + Willdo)
