@@ -3,7 +3,10 @@
    6-2使用一个字典来存储一些人喜欢的数字，将人名用做字典中的键，将数字作为值存储到字典中，打印每个人的人名与数字
    6-3模拟字典，打印一个词汇并在其后附上含义'''
 ##6-1
-infomation = {'first_name': 'Lau','last_name': 'jinchen', 'age': '21', 'city': 'nanjing'}
+infomation = {'first_name': 'Lau',
+              'last_name': 'jinchen',
+              'age': '21', 'city': 'nanjing'
+              }
 
 print(infomation['first_name'],infomation['last_name'],infomation['age'])
 ##6-2
