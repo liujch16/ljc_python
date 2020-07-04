@@ -6,4 +6,4 @@ def fct2(x):
         return eval('*'.join(map(str, list(range(1, x + 1)))))
 
 
-print('方法2: 50! =', fct2(50))
+print('方法2: 200! =', fct2(200))

@@ -21,4 +21,4 @@ def main():
     koch(400,level)
     turtle.hideturtle()
 main()
-turtle.done()
+turtle.done()#turtl.done命令使画布运行之后不自动关闭
