@@ -1,0 +1,2 @@
+In Python you can do a lot of things.
+In Python you will do somethings with computer.
