@@ -13,6 +13,9 @@ def greet_user():
             print("We'll remember your when you came back, " + 
                 username + "!")
     else:
-        print("Welcome back, " + username + "!")
-
+        current_username = input("Please enter your username: ")
+        if username == current_username:#询问用户名以确保是否是同一个人在登录
+            print("Welcome back, " + username + "!")
+        else:
+            print("Sorry you aren't the same usr.")
 greet_user()
