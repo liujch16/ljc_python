@@ -1,6 +1,7 @@
 file_path = 'D:\\pythonworkspace1\\vscode_python\\file_practice\\pi_digits.txt'
 
-with open(file_path) as file_object:#关键字with使python在合适的时候关闭文件
+with open(file_path) as file_object:#open()接受要打开的文件名并返回一个表示文件的对象(变量file_object)，
+    #关键字with使python在合适的时候关闭文件
     lines = file_object.readlines()
 
 pi_string = ''#在此处定义了一个空字符串
