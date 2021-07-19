@@ -29,7 +29,7 @@ f(x) = x + 2 (-1 <= x <= 1)
 x = float(input('x = '))
 if x < -1:
     y = 5 * x + 3
-elif x <= 1:
+elif x <= 1: 
     y = x + 2
 else:
     y = 3 * x - 5

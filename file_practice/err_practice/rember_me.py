@@ -1,8 +1,18 @@
 import json 
 
-username = input("What is your name? ")
+def greet_user():
+    '''若用户存储了用户名就获取它'''
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj: 
+            username = json.load(f_obj)
+    except FileNotFoundError:#若json文件不存在就创建一个新的json文件并提示用户输入用户名
+        username = input("Please enter your name: ")
+        with open(filename, 'w') as f_obj:
+            json.dump(username, f_obj)
+            print("We'll remember your when you came back, " + 
+                username + "!")
+    else:
+        print("Welcome back, " + username + "!")
 
-filename = 'username.json'
-with open(filename, 'w') as f_obj:
-    json.dump(username, f_obj)#调用json.dump()，将用户名和一个文件对象传递给它从而将用户名存储到文件中
-    print("We'll remember you when you come back, " + username + "!") 
+greet_user()

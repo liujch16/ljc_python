@@ -2,10 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="491fb272-e9e4-4c96-8a9d-5b4c5c1b318c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_learn1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no_7/homework72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/helloworld/.idea/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/helloworld/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/helloworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/.idea/温度转化.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/exam7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/温度转化/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/.idea/第三周.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/exam1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/exam2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/exam3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Former_practice/第三周/exam4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn00.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/new_learn7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_100_days/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/candf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/module3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/prac_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/.idea/learn1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/homework3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/homework4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_1/name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_7/homework71.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_7/homework71.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/.idea/helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/.idea/learn1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/homework3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/homework4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/list2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn1/name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_learn1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_7/homework72.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_7/homework72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_7/note72.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_7/note72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/.idea/温度转化.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/exam7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/温度转化/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/.idea/第三周.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/exam1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/exam2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/exam3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三周/exam4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +108,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,6 +117,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="SAVE_CHANGES_POLICY" value="STASH" />
   </component>
+  <component name="JupyterTrust" id="e37b4868-9d6c-4d9e-8333-56ccc3b42ee6" />
   <component name="ProjectId" id="1dQVdWwBL5CqDVYmKoGPQWLRPch" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,15 +127,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.26204818" />
   </component>
-  <component name="RunManager" selected="Python.new_learn1">
-    <configuration name="homework71" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.module3">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,12 +145,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_100_days" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_7/homework71.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_100_days/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework72" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="module3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,12 +189,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_7/homework72.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/module3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_learn02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_100_days" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_100_days/new_learn02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new_learn1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prac_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +233,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_learn1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/prac_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="note74" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,34 +255,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_100_days" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_7/note74.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="note76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/no_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_7/note76.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_100_days/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,14 +271,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.new_learn1" />
-        <item itemvalue="Python.homework72" />
-        <item itemvalue="Python.homework71" />
-        <item itemvalue="Python.note76" />
-        <item itemvalue="Python.note74" />
+        <item itemvalue="Python.module3" />
+        <item itemvalue="Python.prac_1" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.new_learn02" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -188,7 +308,56 @@
       <workItem from="1594790352926" duration="17000" />
       <workItem from="1594982585670" duration="3171000" />
       <workItem from="1595043926686" duration="423000" />
-      <workItem from="1595074905077" duration="3013000" />
+      <workItem from="1595074905077" duration="3089000" />
+      <workItem from="1595382058279" duration="2960000" />
+      <workItem from="1595402016127" duration="282000" />
+      <workItem from="1595408632134" duration="1263000" />
+      <workItem from="1595432847977" duration="104000" />
+      <workItem from="1595518529226" duration="8000" />
+      <workItem from="1595552664514" duration="6482000" />
+      <workItem from="1595639048710" duration="220000" />
+      <workItem from="1595639304859" duration="2171000" />
+      <workItem from="1595642411690" duration="1285000" />
+      <workItem from="1595685052630" duration="189000" />
+      <workItem from="1595761406271" duration="443000" />
+      <workItem from="1595837451751" duration="4226000" />
+      <workItem from="1595897581844" duration="326000" />
+      <workItem from="1596094107475" duration="793000" />
+      <workItem from="1596101602486" duration="1988000" />
+      <workItem from="1596457504723" duration="794000" />
+      <workItem from="1596898871921" duration="131000" />
+      <workItem from="1596932739507" duration="390000" />
+      <workItem from="1597196432428" duration="4407000" />
+      <workItem from="1597890560032" duration="2194000" />
+      <workItem from="1602336417023" duration="96000" />
+      <workItem from="1602336587347" duration="820000" />
+      <workItem from="1602426840858" duration="697000" />
+      <workItem from="1604478541331" duration="935000" />
+      <workItem from="1604649010028" duration="947000" />
+      <workItem from="1605542428649" duration="110000" />
+      <workItem from="1609763423263" duration="5528000" />
+      <workItem from="1612083193962" duration="4000" />
+      <workItem from="1612442283313" duration="53000" />
+      <workItem from="1612442423391" duration="689000" />
+      <workItem from="1612443168174" duration="885000" />
+      <workItem from="1615958881243" duration="169000" />
+      <workItem from="1615959083414" duration="242000" />
+      <workItem from="1615959371144" duration="466000" />
+      <workItem from="1617713874677" duration="117000" />
+      <workItem from="1617715735852" duration="1992000" />
+      <workItem from="1617776304128" duration="853000" />
+      <workItem from="1617874929558" duration="78000" />
+      <workItem from="1617875026062" duration="3000" />
+      <workItem from="1617880875631" duration="581000" />
+      <workItem from="1618932511196" duration="201000" />
+      <workItem from="1618932782432" duration="189000" />
+      <workItem from="1618932997412" duration="175000" />
+      <workItem from="1618933226314" duration="99000" />
+      <workItem from="1618934975274" duration="422000" />
+      <workItem from="1622040970281" duration="94000" />
+      <workItem from="1622041117520" duration="189000" />
+      <workItem from="1625728654234" duration="583000" />
+      <workItem from="1625730240770" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="第六章第二次中期">
       <created>1592669900541</created>
@@ -239,13 +408,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594657471680</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第七章的一部分">
+      <created>1595080777348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595080777348</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第六章第二次中期" />
     <MESSAGE value="第六章结束" />
     <MESSAGE value="第六章结束（1）" />
@@ -255,105 +432,47 @@
     <MESSAGE value="第七章的一部分" />
     <option name="LAST_COMMIT_MESSAGE" value="第七章的一部分" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="538" y="281" key="#Notifications" timestamp="1593437504668">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="538" y="281" key="#Notifications/43.23.1237.777@43.23.1237.777" timestamp="1593437504668" />
-    <state x="209" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592461964039">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="209" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1237.777@43.23.1237.777" timestamp="1592461964039" />
-    <state x="434" y="23" key="CommitChangelistDialog2" timestamp="1594657471443">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="434" y="23" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1594657471443" />
-    <state width="464" height="466" key="DebuggerActiveHint" timestamp="1593695188789">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="464" height="466" key="DebuggerActiveHint/43.23.1237.777@43.23.1237.777" timestamp="1593695188789" />
-    <state x="813" y="315" key="Github.ShareDialog" timestamp="1592569877104">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="813" y="315" key="Github.ShareDialog/43.23.1237.777@43.23.1237.777" timestamp="1592569877104" />
-    <state width="688" height="246" key="GridCell.Tab.0.bottom" timestamp="1595079138438">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594656939798" />
-    <state width="688" height="246" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1595079138438" />
-    <state width="688" height="246" key="GridCell.Tab.0.center" timestamp="1595079138437">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="1238" height="198" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594656939796" />
-    <state width="688" height="246" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1595079138437" />
-    <state width="688" height="246" key="GridCell.Tab.0.left" timestamp="1595079138436">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="1238" height="198" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594656939795" />
-    <state width="688" height="246" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1595079138436" />
-    <state width="688" height="246" key="GridCell.Tab.0.right" timestamp="1595079138437">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="1238" height="198" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594656939797" />
-    <state width="688" height="246" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1595079138437" />
-    <state width="688" height="246" key="GridCell.Tab.1.bottom" timestamp="1595079138295">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="688" height="246" key="GridCell.Tab.1.bottom/43.23.1237.777@43.23.1237.777" timestamp="1595079138295" />
-    <state width="688" height="246" key="GridCell.Tab.1.center" timestamp="1595079138294">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="688" height="246" key="GridCell.Tab.1.center/43.23.1237.777@43.23.1237.777" timestamp="1595079138294" />
-    <state width="688" height="246" key="GridCell.Tab.1.left" timestamp="1595079138294">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="688" height="246" key="GridCell.Tab.1.left/43.23.1237.777@43.23.1237.777" timestamp="1595079138294" />
-    <state width="688" height="246" key="GridCell.Tab.1.right" timestamp="1595079138295">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state width="688" height="246" key="GridCell.Tab.1.right/43.23.1237.777@43.23.1237.777" timestamp="1595079138295" />
-    <state x="67" y="46" key="SettingsEditor" timestamp="1594023817043">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="67" y="46" key="SettingsEditor/43.23.1237.777@43.23.1237.777" timestamp="1594023817043" />
-    <state x="480" y="151" key="Vcs.Push.Dialog.v2" timestamp="1594657480263">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="480" y="151" key="Vcs.Push.Dialog.v2/43.23.1237.777@43.23.1237.777" timestamp="1594657480263" />
-    <state x="144" y="123" width="1036" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592580415033">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="144" y="123" width="1036" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog/43.23.1237.777@43.23.1237.777" timestamp="1592580415033" />
-    <state x="0" y="23" width="598" height="777" key="find.popup" timestamp="1594655059379">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="0" y="23" width="598" height="777" key="find.popup/43.23.1237.777@43.23.1237.777" timestamp="1594655059379" />
-    <state x="133" y="105" width="670" height="676" key="search.everywhere.popup" timestamp="1592462380650">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="133" y="105" width="670" height="676" key="search.everywhere.popup/43.23.1237.777@43.23.1237.777" timestamp="1592462380650" />
-    <state x="391" y="255" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1593436744805">
-      <screen x="43" y="23" width="1237" height="777" />
-    </state>
-    <state x="391" y="255" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/43.23.1237.777@43.23.1237.777" timestamp="1593436744805" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProjects1$homework72.coverage" NAME="homework72 Coverage Results" MODIFIED="1594984250251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$name.coverage" NAME="name Coverage Results" MODIFIED="1593660222039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn1" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$exam3.coverage" NAME="exam3 Coverage Results" MODIFIED="1593695143611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$note71.coverage" NAME="note71 Coverage Results" MODIFIED="1593851265132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$note74.coverage" NAME="note74 Coverage Results" MODIFIED="1594655546299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn1.coverage" NAME="new_learn1 Coverage Results" MODIFIED="1595079138229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$exam2.coverage" NAME="exam2 Coverage Results" MODIFIED="1593695132610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$exam6.coverage" NAME="exam6 Coverage Results" MODIFIED="1593441870886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$exam7.coverage" NAME="exam7 Coverage Results" MODIFIED="1593441702734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
     <SUITE FILE_PATH="coverage/PycharmProjects1$exam4.coverage" NAME="exam4 Coverage Results" MODIFIED="1593695361184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$note72.coverage" NAME="note72 Coverage Results" MODIFIED="1593851656685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$exam7.coverage" NAME="exam7 Coverage Results" MODIFIED="1593441702734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn00.coverage" NAME="new_learn00 Coverage Results" MODIFIED="1609764976911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn3.coverage" NAME="new_learn3 Coverage Results" MODIFIED="1595641247351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn6.coverage" NAME="new_learn6 Coverage Results" MODIFIED="1595848042024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$exam3__1_.coverage" NAME="exam3 (1) Coverage Results" MODIFIED="1593695257204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$homework72.coverage" NAME="homework72 Coverage Results" MODIFIED="1594984250251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
     <SUITE FILE_PATH="coverage/PycharmProjects1$exam1.coverage" NAME="exam1 Coverage Results" MODIFIED="1593695278385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
     <SUITE FILE_PATH="coverage/PycharmProjects1$note75.coverage" NAME="note75 Coverage Results" MODIFIED="1594655286936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$note76.coverage" NAME="note76 Coverage Results" MODIFIED="1594656939783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$note73.coverage" NAME="note73 Coverage Results" MODIFIED="1593852205432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
-    <SUITE FILE_PATH="coverage/PycharmProjects1$exam3__1_.coverage" NAME="exam3 (1) Coverage Results" MODIFIED="1593695257204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$test.coverage" NAME="test Coverage Results" MODIFIED="1609846978584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$note72.coverage" NAME="note72 Coverage Results" MODIFIED="1593851656685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$exam6.coverage" NAME="exam6 Coverage Results" MODIFIED="1593441870886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$demo.coverage" NAME="demo Coverage Results" MODIFIED="1617719279504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$exam3.coverage" NAME="exam3 Coverage Results" MODIFIED="1593695143611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/温度转化" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn5.coverage" NAME="new_learn5 Coverage Results" MODIFIED="1595641503256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$candf.coverage" NAME="candf Coverage Results" MODIFIED="1609847795655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$prac_1.coverage" NAME="prac_1 Coverage Results" MODIFIED="1617880955226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn2.coverage" NAME="new_learn2 Coverage Results" MODIFIED="1595382892599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn01.coverage" NAME="new_learn01 Coverage Results" MODIFIED="1609765306708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$note74.coverage" NAME="note74 Coverage Results" MODIFIED="1594655546299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
     <SUITE FILE_PATH="coverage/PycharmProjects1$homework71.coverage" NAME="homework71 Coverage Results" MODIFIED="1594774857770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$note71.coverage" NAME="note71 Coverage Results" MODIFIED="1593851265132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn02.coverage" NAME="new_learn02 Coverage Results" MODIFIED="1609765321940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_100_days" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn4.coverage" NAME="new_learn4 Coverage Results" MODIFIED="1595641494409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$example.coverage" NAME="example Coverage Results" MODIFIED="1609764278752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Former_practice/温度转化" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$exam2.coverage" NAME="exam2 Coverage Results" MODIFIED="1593695132610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三周" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$name.coverage" NAME="name Coverage Results" MODIFIED="1593660222039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$note73.coverage" NAME="note73 Coverage Results" MODIFIED="1593852205432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$note76.coverage" NAME="note76 Coverage Results" MODIFIED="1594656939783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects1$new_learn1.coverage" NAME="new_learn1 Coverage Results" MODIFIED="1595079138229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
