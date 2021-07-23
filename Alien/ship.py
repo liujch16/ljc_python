@@ -7,7 +7,7 @@ class Ship():
         self.screen = screen
         self.ai_settings = ai_settings
         #加载飞船图像并获取其外接矩形
-        self.image = pygame.image.load('D:\pythonworkspace1/vscode_python/Alien/images/ship.bmp')#加载图像，此函数返回了一个表示飞船surface，并将此surface存储到了image属性中
+        self.image = pygame.image.load('D:/pythonworkspace1/vscode_python/vscode_Projects/Alien/images/ship.bmp')#加载图像，此函数返回了一个表示飞船surface，并将此surface存储到了image属性中
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
         
