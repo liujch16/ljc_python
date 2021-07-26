@@ -1,5 +1,5 @@
 class Settings():
-    '''存储游戏的所有设置的类'''
+    '''初始化游戏的静态设置'''
     
     def __init__(self):
         self.screen_width = 1200

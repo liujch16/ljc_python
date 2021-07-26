@@ -1,4 +1,5 @@
-'''将管理事件的代码转移到check_events()的函数中以简化run_game()并隔离事件管理循环'''
+'''将管理事件的代码转移到check_events()的函数中以简化 run_game() 并隔离事件管理循环'''
+
 from bullet import Bullet
 from time import sleep#此模块使游戏暂停
 import sys
@@ -36,7 +37,8 @@ def check_keyup_events(event, ship):
     elif event.key == pygame.K_LEFT:
         ship.moving_left = False
 
-def check_events(ai_settings, screen, ship, bullets):
+def check_events(ai_settings, screen, stats, play_button, ship, aliens,
+                 bullets):
     '''响应按键和鼠标事件'''
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
@@ -50,6 +52,34 @@ def check_events(ai_settings, screen, ship, bullets):
 
         elif event.type == pygame.KEYDOWN:
             check_keydown_events(event, ai_settings, screen, ship, bullets)
+            
+        elif event.type == pygame.MOUSEBUTTONDOWN:
+            mouse_x, mouse_y = pygame.mouse.get_pos()
+            check_play_button(ai_settings, screen, stats, play_button, ship, aliens, bullets, mouse_x, mouse_y)
+            
+def check_play_button(ai_settings, screen, stats, play_button, ship, aliens, 
+                      bullets, mosue_x, mouse_y):
+    ''''在玩家单击Play按钮时开始新游戏'''
+    button_clicked = play_button.rect.collidepoint(mosue_x, mouse_y)
+    if button_clicked and not stats.game_active:
+        
+        #重置统计信息
+        if play_button.rect.collidepoint(mosue_x, mouse_y):
+            
+            #隐藏光标
+            pygame.mouse.set_visible(False)
+            
+            #重置游戏统计信息
+            stats.reset_stats()
+            stats.game_active = True
+            
+            #清空外星人列表和子弹列表
+            aliens.empty()
+            bullets.empty()
+            
+            #创建一群新的外星人
+            create_fleet(ai_settings, screen, ship, aliens)
+            ship.center_ship()
 
 def update_screen(ai_settings, screen, stats, ship, aliens, bullets,
                 play_button):
@@ -170,7 +200,8 @@ def ship_hit(ai_settings, stats, screen, ship, aliens, bullets):
         sleep(0.5)
     else:
         stats.game_active = False
-
+        pygame.mouse.set_visible(True)
+    
 def check_aliens_bottom(ai_settings, stats, screen, ship, aliens, bullets):
     '''检查是否有外星人到达了屏幕底端'''
     screen_rect = screen.get_rect()
